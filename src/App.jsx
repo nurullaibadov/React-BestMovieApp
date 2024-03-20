@@ -6,7 +6,6 @@ const App = () => {
     <div>
       <Header />
       <Section />
-      <p>as</p>
     </div>
   );
 };
